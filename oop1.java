@@ -1,3 +1,4 @@
+// base of encapsulation and constructor
 package ooppractice;
 class Car{
     // private instance variable
